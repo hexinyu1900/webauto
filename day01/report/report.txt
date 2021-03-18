@@ -1,0 +1,7 @@
+test01 (test01_skip.Test01) ... skipped 'test01方法功能暂未实现'
+test02 (test01_skip.Test01) ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.004s
+
+OK (skipped=1)

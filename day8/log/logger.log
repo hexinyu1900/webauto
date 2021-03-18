@@ -1,0 +1,3 @@
+2021-03-13 10:13:19,516 INFO [root] [test05_logger.py (<module>:34)]] - info信息被执行
+2021-03-13 10:16:15,596 INFO [root] [test05_logger.py (<module>:40)]] - info信息被执行
+2021-03-13 10:16:15,596 ERROR [root] [test05_logger.py (<module>:41)]] - error信息被执行

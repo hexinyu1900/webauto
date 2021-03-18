@@ -1,0 +1,4 @@
+2021-03-12 17:32:46,136 INFO [root] [test04_TimedRotatingFileHandler.py (<module>:39)]] - info
+2021-03-12 17:33:44,225 INFO [root] [test04_TimedRotatingFileHandler.py (<module>:39)]] - info
+2021-03-12 17:33:47,861 INFO [root] [test04_TimedRotatingFileHandler.py (<module>:39)]] - info
+2021-03-12 17:34:36,812 INFO [root] [test04_TimedRotatingFileHandler.py (<module>:39)]] - info
